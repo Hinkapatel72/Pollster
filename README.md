@@ -1,2 +1,2 @@
 # Pollster
-created polling application in Django
+Created polling application in Django
